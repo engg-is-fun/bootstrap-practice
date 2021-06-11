@@ -1,0 +1,23 @@
+.navbar{
+	background-image: linear-gradient(to right,#61f913,#804d62);
+	padding:0;
+}
+.navbar-brand img{
+
+     padding-left:20px;
+}
+.navbar-nav li{
+	padding:0 10px;
+}
+.navbar-nav li a{
+	color:white!important;
+	font-weight:bold;
+}
+.fa-bars{
+	color:#fff;
+	font-size:30px;
+}
+.navbar-toggler{
+	outline:none !important;
+	border:none;
+}
